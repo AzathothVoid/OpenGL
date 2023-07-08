@@ -1,0 +1,2 @@
+C:\Graphics Programming\OpenGLPractice\x64\Release\OpenGLPractice.exe
+C:\Skills and Technologies\Graphics Programming\OpenGLPractice\x64\Release\OpenGLPractice.exe

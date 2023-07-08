@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Skills and Technologies\Graphics Programming\OpenGLPractice\main.cpp(385,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 453 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLPractice.vcxproj -> C:\Skills and Technologies\Graphics Programming\OpenGLPractice\x64\Release\OpenGLPractice.exe
